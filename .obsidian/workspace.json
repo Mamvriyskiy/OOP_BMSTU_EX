@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "8766502003d296bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e7819d7f9dd5f2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5b4320da0a9c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Билеты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f9ea8703211a122",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7c57335e05873c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6db4d540eca14770",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62ddad10503486dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5a182b5ac9714a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c03d6aaeae9287ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ae0f5eccd63483f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee46a5841b5c71c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Билеты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9076fe5421969abc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Билеты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63645c114a99b2b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9b47b5474b19259",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Билеты.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d5b4320da0a9c30",
+  "lastOpenFiles": [
+    "Паттерны/Компоновщик(Composite).md",
+    "Паттерны/Мост(Bridge).md",
+    "images/bridge.png",
+    "bridge.png",
+    "Компоновщик(Composite).md",
+    "Теория/11) Структурные паттерны. Адаптер (Adapter), декоратор (Decorator), компоновщик (Composite), мост (Bridge), заместитель (Proxy), фасад (Facade)..md",
+    "images/compos.png",
+    "Теория/14)Паттерны поведения. Strategy, Command, цепочка обязанностей (Chain of Responsibility), подписчик-издатель (Publish-Subscribe), посредник (Mediator)..md",
+    "Паттерны/Декоратор(Decorator).md",
+    "images/dec.png",
+    "Паттерны/Строитель(Builder).md",
+    "Практика/16)Проблемы с динамическим выделением и освобождением памяти. Holder. Unique_ptr, shared_ptr, weak_ptr. Связь между shared_ptr и weak_ptr..md",
+    "Практика/15)Ограничения для шаблонов.  Requires. Концепты. Типы ограничений. Варианты определения шаблонов функций и классов с концептами..md",
+    "Практика/14) Спец шаблонов функций и классов. Шаблоны типов, классов. Пар шаблонов, зад по умолч. Шаблоны с переменным чис пар. Пространства имен..md",
+    "Практика/13)Неявные шаблоны. Протаскивание типа передаваемого параметра через шаблон (шаблон std_forward). Определение типа через decltype, decltype(auto)..md",
+    "Практика/12)Шаблоны функций, методов классов и классов в С++. Параметры типы и параметры значения. Срезание ссылок и модификатора const..md",
+    "Практика/11)Перегрузка унарных и бинарных операторов. Перегрузка операторов &&, или, &, ++, --. Перегрузка операторов приведения типов. Spaceship..md",
+    "Практика/10)Перегрузка операторов. Операторы .*, ->*. Правила перегрузки операторов. Перегрузка операторов =, () и [ ]. Перегрузка операторов ->, * и –>*..md",
+    "Практика/9)Обработка искл ситуаций. Решение проблем структурного программирования. Try и catch. Безопасный код относительно исключений. Exception_ptr..md",
+    "Практика/8)Полиморфизм. Виртуальные методы и деструкторы. Абстрактный класса. Ошибки с указателем или ссылкой на базовый класс. Друж связи..md",
+    "Практика/7)Множественное наследование. Прямая и косвенная базы. Виртуальное наследование. Доминирования. Порядок создания и уничтожения объектов..md",
+    "Практика/6)Наследование в С++. Построение иерархии классов. Выделение общей части группы классов. Расщепление классов..md",
+    "Практика/5) Конструкторы копирования и переноса. Модификатор explicit. Удаление конст и default констр. Делегирующие и унаследованные конструкторы..md",
+    "Практика/4) Конструкторы и деструкторы. Раздел инициализации конструкторов. Cоздание объектов. Вызов конструкторов. Приведение типа..md",
+    "Практика/3) Классы и объекты в С++. Class, struct, union. Члены, методы  класса и объекта. Методы класса и объекта. Константные члены класса. Схемы наследования..md",
+    "Практика/2) Ссылки. lvalue и rvalue ссылки. Передача параметров в функции по ссылке. Автоматическое выведение типа..md",
+    "Теория/3)Основные понятия ООП. Объект. Категории объектов. Отношения между объектами. Класс. Отношения между классами. Понятие домена..md",
+    "Теория/2) \"+\" и \"-\" структурного программирования. Идеи Энтони Хоара. \"+\" и \"-\" объектно-ориентированного программирования..md",
+    "Паттерны/Адаптер(Adapter).md",
+    "images/ad.png",
+    "images/Снимок экрана 2023-08-11 в 15.21.42.png",
+    "Билеты.md",
+    "images/bul.png",
+    "bul.png",
+    "images/op.png",
+    "images/pr.png",
+    "Паттерны",
+    "Новая папка",
+    "Теория",
+    "images",
+    "Users/ivanmamvriyskiy/Desktop/Obsidian/images",
+    "Users/ivanmamvriyskiy/Desktop/Obsidian",
+    "Users/ivanmamvriyskiy/Desktop",
+    "Users/ivanmamvriyskiy",
+    "Users",
+    "Практика/1_1"
+  ]
+}
